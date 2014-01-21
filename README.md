@@ -1,4 +1,4 @@
-Interactive-banner-with-parallax.js
+parallax.js Tutorial
 ===================================
 
-Animated Banner with Parallax.js
+Creating Animated Banner with Parallax.js
