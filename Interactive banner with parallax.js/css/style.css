@@ -1,0 +1,31 @@
+* {margin:0; padding:0;}
+
+body {font-family:Arial, Helvetica, sans-serif; font-size:12px; background:#e6e6e6;}
+a {text-decoration:none;}
+
+#header {width:100%; background:#34495E; border-bottom:3px solid #0B292D;}
+.topNav {background:#253749; width:100%; border-bottom:1px solid #0B292D;}
+.topNav a {display:block; padding:5px 10px; color:#FFF;}
+.topNav a:hover {background:#2B445E;}
+.heading {width:1024px; margin:50px auto; color:#FFF; text-align:center;}
+
+.clearfix:before, .clearfix:after {content: " "; display: table;}  
+.clearfix:after {clear:both;}  
+.clearfix {*zoom:1;}  
+
+.pull-left {float:left;}
+.pull-right {float:right;}
+
+.MainContainer {position:relative;}
+.ipadContainer {}
+
+.container {width:1024px; height:768px; overflow:hidden; position:relative; margin:50px auto; border:10px solid #0B292D; background:#000;}
+.background {background:url(../images/huge_bg.jpg); width:1024px; height:768px; }
+
+.layer div {position:absolute;}
+.kuramaContainer {top:-100px; left:-150px;}
+.minatoContainer {top:330px; left:250px;}
+.obitoContainer  {top:520px; left:550px;}
+.landscapeContainer {top:500px; left:-250px;}
+.grassContainer {top:700px; left:-250px;} 
+.leavesContainer {top:350px; left:0px;}
