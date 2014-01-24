@@ -27,8 +27,6 @@ a {text-decoration:none;}
 .pull-left {float:left;}
 .pull-right {float:right;}
 
-.MainContainer {position:relative;}
-
 .container {width:1024px; height:768px; overflow:hidden; position:relative; margin:50px auto; border:10px solid #0B292D; background:#000;}
 .background {background:url(../images/huge_bg.jpg); width:1024px; height:768px; }
 
