@@ -28,15 +28,14 @@ a {text-decoration:none;}
 .pull-right {float:right;}
 
 .MainContainer {position:relative;}
-.ipadContainer {}
 
 .container {width:1024px; height:768px; overflow:hidden; position:relative; margin:50px auto; border:10px solid #0B292D; background:#000;}
 .background {background:url(../images/huge_bg.jpg); width:1024px; height:768px; }
 
 .layer div {position:absolute;}
-.kuramaContainer {top:-100px; left:-150px;}
-.minatoContainer {top:330px; left:250px;}
-.obitoContainer  {top:520px; left:550px;}
-.landscapeContainer {top:500px; left:-250px;}
-.grassContainer {top:700px; left:-250px;} 
-.leavesContainer {top:350px; left:0px;}
+.kurama{top:-100px; left:-150px;}
+.minato{top:330px; left:250px;}
+.obito{top:520px; left:550px;}
+.landscape{top:500px; left:-250px;}
+.grass{top:700px; left:-250px;} 
+.leaves{top:350px; left:0px;}
